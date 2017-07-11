@@ -41,6 +41,7 @@
     <!-- Dependencies are automatically installed when the package is installed -->
     <dependencies>
         <dependency id="UmbracoCms.Core" version="7.3.0" />
+		<dependency id="System.Data.Common" version="4.3.0" />
     </dependencies>
     </metadata>
 
