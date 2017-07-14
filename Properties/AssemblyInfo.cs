@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MultiTenantedUsers")]
-[assembly: AssemblyDescription("Umbraco 7 Plugin")]
+[assembly: AssemblyTitle("Mahi.MultiTenantedUsers")]
+[assembly: AssemblyDescription("Umbraco 7 Project (plugin)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Balto")]
+[assembly: AssemblyCompany("Ryan O'Connor")]
 [assembly: AssemblyProduct("MultiTenantedUsers")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
